@@ -1,6 +1,6 @@
-# MarketingDA
+# Маркетинговая и продуктовая аналитика
 
-Здесь представлены копии моих блокот с Kaggle и GoogleCollab.
+Здесь загружены копии моих блокот с Kaggle и GoogleCollab.
 
  [Репозиторий - Маркетинговый анализ данных](https://github.com/AlinaEvgenevna/MarketingDA)
 | Проект   |      Описание     |  Инструменты |
